@@ -1,0 +1,234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Documento sin t&iacute;tulo</title>
+<script language="vbscript" src="script1.vbs">
+</script>
+<script language="vbscript">
+function cotizacion()
+	error = flase
+	valor = 0
+	volumen = 0
+	if NOT(contarSel() > 1 OR form1.rbCombo(0).checked = false)Then
+		msgbox("Debe Seleccionar Mas de Una Pieza Para El Combo Institucional")
+		error = true
+	end if
+	if (form1.txtAlto.value = "" OR form1.txtAncho.value = "" OR form1.txtLargo.value = "") then
+		msgbox("Se debe colocar valores validos para Largo, Alto y Ancho")
+		error = true
+	end if
+	if (form1.txtNombre.value = "" OR form1.txtApellido.value = "") then
+		msgbox("Debe ingresar su Nombre y Apellid")
+		error=true
+	end if
+	if ((NOT error) AND form1.rbCombo(1).checked = true ) then
+		p = form1.lstMat.selectedIndex
+		mat = form1.lstMat.options(p).value
+		t = form1.lstProducto.selectedIndex
+		tipo = form1.lstProducto.options(t).value
+		valor = cotizarProducto(mat,tipo,form1.txtLargo.value,form1.txtAlto.value,form1.txtAncho.value)
+		volumen = form1.txtLargo.value * form1.txtAlto.value * form1.txtAncho.value
+	end if
+	if (contarSel() > 1 AND form1.rbCombo(0).checked = true AND (NOT error)) then
+		if form1.cbCenicero.checked=true then
+			p = form1.lstMat.selectedIndex
+			mat = form1.lstMat.options(p).value
+			valor = valor + cotizarProducto(mat,50,form1.txtLargo.value,form1.txtAlto.value,form1.txtAncho.value)
+			volumen = volumen + form1.txtLargo.value * form1.txtAlto.value * form1.txtAncho.value
+		end if
+		if form1.cbEscultura.checked=true then
+			p = form1.lstMat.selectedIndex
+			mat = form1.lstMat.options(p).value
+			valor = valor + cotizarProducto(mat,70,form1.txtLargo.value,form1.txtAlto.value,form1.txtAncho.value)
+			volumen = volumen + form1.txtLargo.value * form1.txtAlto.value * form1.txtAncho.value
+		end if
+		if form1.cbInstitucional.checked=true then
+			p = form1.lstMat.selectedIndex
+			mat = form1.lstMat.options(p).value
+			valor = valor + cotizarProducto(mat,100,form1.txtLargo.value,form1.txtAlto.value,form1.txtAncho.value)
+			volumen = volumen + form1.txtLargo.value * form1.txtAlto.value * form1.txtAncho.value
+		end if
+	end if
+	if valor <> 0 then
+		Layer1.innerHTML = "Sr." &form1.txtNombre.value & " " &form1.txtApellido.value&": "& "El costo Presupuestado es de: " & valor & " El Volumen de piedra necesario es: "&volumen &" en Centimetros Cubicos"
+		Layer1.style.visibility = "visible"
+	end if
+end function
+function cotizarProducto(material,tipo,largo,alto,ancho)
+	volumen = (largo*alto*ancho)
+	matC = volumen * material
+	tipoC = volumen * tipo
+	msgbox("Material: " & material  &" Tipo: " & tipo & " Volumen: " &volumen& " Costo Material: "&matC&" Costo Tipo: "&tipoC)
+	cotizarProducto = (matC + tipoC + 100)/10
+end function
+function contarSel()
+	n = 0
+	if form1.cbCenicero.checked=true then
+		n = n + 1
+	end if
+	if form1.cbEscultura.checked=true then
+		n = n + 1
+	end if
+	if form1.cbInstitucional.checked=true then
+		n = n + 1
+	end if
+	contarSel = n
+end function
+
+function controlTexto()
+	T = window.event.keyCode
+	if ( (NOT(T => 65 AND T <= 90)) AND (NOT( T >=97 AND T <= 122)) AND T<>32)then
+		window.event.keyCode=0
+	end if
+end function
+
+function controlNum()
+	T = window.event.keyCode
+	if (T<48 OR T>57) Then
+		window.event.keyCode=0
+	end if
+end function
+
+function seleccionar()
+	if (form1.rbCombo(1).checked = true) then
+		form1.cbCenicero.disabled=true
+		form1.cbEscultura.disabled=true
+		form1.cbInstitucional.disabled=true
+		form1.cbCenicero.checked=false
+		form1.cbEscultura.checked=false
+		form1.cbInstitucional.checked=false
+		form1.txtLargo.disabled = false
+		form1.txtAlto.disabled = false
+		form1.txtAncho.disabled = false
+		form1.txtAlto.value = ""
+		form1.txtAncho.value = ""
+		form1.txtLargo.value = ""
+	else
+		form1.cbCenicero.disabled=false
+		form1.cbEscultura.disabled=false
+		form1.cbInstitucional.disabled=false
+		form1.txtAlto.value = "20"
+		form1.txtAncho.value = "10"
+		form1.txtLargo.value = "10"
+		form1.txtLargo.disabled = true
+		form1.txtAlto.disabled = true
+		form1.txtAncho.disabled = true
+	end if
+end function
+
+function limpieza()
+	form1.cbCenicero.checked=false
+	form1.cbEscultura.checked=false
+	form1.cbInstitucional.checked=false
+	form1.rbCombo(1).checked = true
+	form1.txtAlto.value = ""
+	form1.txtAncho.value = ""
+	form1.txtLargo.value = ""
+	form1.txtNombre.value = ""
+	form1.txtApellido.value = ""
+	form1.lstMat.selectedIndex = 0
+	form1.lstProducto.selectedIndex = 0
+	form1.cbCenicero.disabled=true
+	form1.cbEscultura.disabled=true
+	form1.cbInstitucional.disabled=true
+	Layer1.style.visibility = "hidden"
+	Layer1.innerHTML = ""
+	form1.txtLargo.disabled = false
+	form1.txtAlto.disabled = false
+	form1.txtAncho.disabled = false
+end function
+
+</script>
+
+<link href="cotizar.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="actualizar()">
+<form id="form1" name="form1" method="post" action="">
+  <label>  </label>
+  <table width="426" border="1">
+   	<tr>
+      <td width="125">Nombre:</td>
+      <td width="285"><label>
+        <input name="txtNombre" type="text" id="txtNombre" onkeypress="controlTexto()" />
+      </label></td>
+    </tr>
+	<tr>
+      <td width="125">Apellido</td>
+      <td width="285"><label>
+        <input name="txtApellido" type="text" id="txtApellido" onkeypress="controlTexto()" />
+      </label></td>
+    </tr>
+    <tr>
+      <td width="125">Combo Institucional:</td>
+      <td width="285"><label>
+        <input name="rbCombo" type="radio" value="radiobutton" onclick="seleccionar()" />
+        Si
+      </label>
+        <label>
+        <input name="rbCombo" type="radio" value="radiobutton" checked="checked" onclick="seleccionar()"/>
+      No</label></td>
+    </tr>
+	 <tr>
+      <td width="125">Piezas Combo:</td>
+      <td width="285"><label>
+        <input name="cbCenicero" type="checkbox" id="cbCenicero" disabled="disabled" value="checkbox" />
+        Cenicero
+      </label>
+        <label>
+        <input name="cbEscultura" type="checkbox" id="cbEscultura" disabled="disabled" value="checkbox" />
+        Escultura       </label>
+        <label>
+         <input name="cbInstitucional" type="checkbox" id="cbInstitucional" disabled="disabled" value="checkbox" />
+        Institucional       </label></td>
+    </tr>
+	<tr>
+      <td>Tipo de Producto:</td>
+      <td><label></label><label>
+        <select name="lstProducto" id="lstProducto">
+          <option value="0.50">Cenicero</option>
+          <option value="0.70">Escultura</option>
+          <option value="0.80">Bacha</option>
+          <option value="0.40">Mortero</option>
+          <option value="0.90">Institucional</option>
+        </select>
+      </label></td>
+    </tr>
+    <tr>
+      <td>Tipo de Piedra:</td>
+      <td><label>
+        <select name="lstMat" id="lstMat">
+          <option value="0.40">Marmol</option>
+          <option value="0.20">Piedra Bola</option>
+          <option value="0.60">Granito</option>
+        </select>
+      </label>
+      <label></label></td>
+    </tr>
+    <tr>
+      <td>Largo(cm):</td>
+      <td><label>
+        <input name="txtLargo" type="text" id="txtLargo" onkeypress="controlNum()" />
+      </label></td>
+    </tr>
+    <tr>
+      <td>Ancho(cm):</td>
+      <td><label>
+        <input name="txtAncho" type="text" id="txtAncho" onkeypress="controlNum()"/>
+      </label></td>
+    </tr>
+    <tr>
+      <td>Alto(cm):</td>
+      <td><input name="txtAlto" type="text" id="txtAlto" onkeypress="controlNum()"/></td>
+    </tr>
+  </table>
+  <div id="Layer1">asdfasdfasdfasdf</div>
+  <label><br />
+  <input name="btCotizar" type="button" id="btCotizar" value="Cotizar" onclick="cotizacion()" />
+  <input name="btLimpiar" type="button" id="btLimpiar" value="Limpiar" onclick="limpieza()" />
+  </label>
+  <p>&nbsp;</p>
+</form>
+</body>
+</html>

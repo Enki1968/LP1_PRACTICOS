@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.frmPiedraPapelTijera.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.pdb

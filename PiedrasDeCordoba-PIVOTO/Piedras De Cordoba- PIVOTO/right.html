@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Documento sin t&iacute;tulo</title>
+<script language="vbscript">
+function gohome()
+	cframe = "center.html"
+	window.open "center.html","mainFrame","location=yes"
+	parent.document.title = "Piedras De Cordoba - Pagina Principal"
+
+end function
+
+function goback()
+	history.back
+end function
+
+function goff()
+	history.forward
+end function
+
+</script>
+</head>
+<body bgcolor="#FFFF99">
+<table width="100%" border="0" align="center">
+  <tr>
+    <td align="center" valign="middle"><img src="Imagenes/Iconos/home.gif" width="35" height="35" onclick="gohome()" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="Imagenes/Iconos/anterior.png" width="31" height="31" onclick="goback()" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="Imagenes/Iconos/siguiente.png" width="31" height="31" onclick="goff()"/></td>
+  </tr>
+</table>
+
+</body>
+</html>

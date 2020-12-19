@@ -1,0 +1,36 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\obj\Debug\Potencia de un numero.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\obj\Debug\Potencia_de_un_numero.frmPotencia.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\obj\Debug\Potencia_de_un_numero.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\obj\Debug\Potencia de un numero.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\obj\Debug\Potencia de un numero.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\bin\Debug\Potencia de un numero.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\bin\Debug\Potencia de un numero.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\bin\Debug\Potencia de un numero.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\bin\Debug\Potencia de un numero.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\obj\Debug\Potencia de un numero.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\obj\Debug\Potencia de un numero.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Potencia de un numero\obj\Debug\Potencia de un numero.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\bin\Debug\Potencia de un numero.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\bin\Debug\Potencia de un numero.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\bin\Debug\Potencia de un numero.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\bin\Debug\Potencia de un numero.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\obj\Debug\Potencia de un numero.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\obj\Debug\Potencia_de_un_numero.frmProcedimientos.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\obj\Debug\Potencia_de_un_numero.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\obj\Debug\Potencia de un numero.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\obj\Debug\Potencia de un numero.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\obj\Debug\Potencia de un numero.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\obj\Debug\Potencia de un numero.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Procedimientos\obj\Debug\Potencia de un numero.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\bin\Debug\Potencia de un numero.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\bin\Debug\Potencia de un numero.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\bin\Debug\Potencia de un numero.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\bin\Debug\Potencia de un numero.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\obj\Debug\Potencia de un numero.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\obj\Debug\Potencia_de_un_numero.frmProcedimientos.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\obj\Debug\Potencia_de_un_numero.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\obj\Debug\Potencia de un numero.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\obj\Debug\Potencia de un numero.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\obj\Debug\Potencia de un numero.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\obj\Debug\Potencia de un numero.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\6.3. Funciones\obj\Debug\Potencia de un numero.pdb

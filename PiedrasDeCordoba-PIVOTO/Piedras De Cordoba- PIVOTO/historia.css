@@ -1,0 +1,50 @@
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: doble;
+	border-right-style: doble;
+	border-bottom-style: doble;
+	border-left-style: doble;
+}
+h2 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: oblique;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: capitalize;
+	background-color: #33FFFF;
+	margin: 3px;
+	padding: 3px;
+	float: left;
+	height: auto;
+	width: auto;
+	border: thick outset #006666;
+	
+}
+h2:hover{
+	background:#330000;
+	color:#FFFFFF
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: small-caps;
+	color: #330066;
+	text-transform: none;
+	letter-spacing: normal;
+	text-align: justify;
+	word-spacing: normal;
+}

@@ -1,0 +1,45 @@
+D:\Alumno\Desktop\IEFI\IEFI\bin\Debug\IEFI.exe.config
+D:\Alumno\Desktop\IEFI\IEFI\bin\Debug\IEFI.exe
+D:\Alumno\Desktop\IEFI\IEFI\bin\Debug\IEFI.pdb
+D:\Alumno\Desktop\IEFI\IEFI\bin\Debug\IEFI.xml
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.vbprojAssemblyReference.cache
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.FrmAcercaDe.resources
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.FrmConsultarProduccionDeEmpleado.resources
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.FrmInicio.resources
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.Resources.resources
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.vbproj.GenerateResource.cache
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.vbproj.CoreCompileInputs.cache
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.exe
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.xml
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.pdb
+D:\Alumno\Desktop\IEFI\IEFI\obj\Debug\IEFI.FrmListarProduccionPorEmpleado.resources
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\bin\Debug\IEFI.exe.config
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\bin\Debug\IEFI.exe
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.vbprojAssemblyReference.cache
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.FrmAcercaDe.resources
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.FrmConsultarProduccionDeEmpleado.resources
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.FrmInicio.resources
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.FrmListarProduccionPorEmpleado.resources
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.Resources.resources
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.vbproj.GenerateResource.cache
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.vbproj.CoreCompileInputs.cache
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.exe
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.xml
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\obj\Debug\IEFI.pdb
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\bin\Debug\IEFI.pdb
+C:\Users\ebongiovanni\Downloads\IEFI LP1 20190611\IEFI LP1 20190611\11-06-2019 - 10.04.06 - MOGNI, MARIA CAROLINA\IEFI\IEFI\bin\Debug\IEFI.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\bin\Debug\IEFI.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\bin\Debug\IEFI.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\bin\Debug\IEFI.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\bin\Debug\IEFI.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.FrmAcercaDe.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.FrmConsultarProduccionDeEmpleado.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.FrmInicio.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.FrmListarProduccionPorEmpleado.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Proyecto de Ejemplo\IEFI\IEFI\obj\Debug\IEFI.pdb

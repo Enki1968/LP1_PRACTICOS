@@ -1,0 +1,19 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\bin\Debug\Trabajo Práctico Nº 4.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\bin\Debug\Trabajo Práctico Nº 4.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\bin\Debug\Trabajo Práctico Nº 4.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\bin\Debug\Trabajo Práctico Nº 4.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.frmAcercaDe.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.frmAgregarNuevoEmpleado.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.frmBusquedaEmpleado.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.frmColsultaDatosEmpleado.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.frmGestionDeEmpleados.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.frmListadoConSueldoMayor.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.frmListadoGeneral.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.frmListadoPorCategoria.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo_Práctico_Nº_4.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo Práctico Nº 4.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo Práctico Nº 4.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo Práctico Nº 4.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo Práctico Nº 4.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo Práctico Nº 4.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Trabajo Práctico Nº 4\obj\Debug\Trabajo Práctico Nº 4.vbprojAssemblyReference.cache

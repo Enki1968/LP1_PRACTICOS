@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\bin\Debug\TP-LP1-REPASO_VECTORES_1_1.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\bin\Debug\TP-LP1-REPASO_VECTORES_1_1.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\bin\Debug\TP-LP1-REPASO_VECTORES_1_1.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\bin\Debug\TP-LP1-REPASO_VECTORES_1_1.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP-LP1-REPASO_VECTORES_1_1.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP_LP1_REPASO_VECTORES_1_1.frmSistemaDeVendedores.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP_LP1_REPASO_VECTORES_1_1.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP-LP1-REPASO_VECTORES_1_1.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP-LP1-REPASO_VECTORES_1_1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP-LP1-REPASO_VECTORES_1_1.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP-LP1-REPASO_VECTORES_1_1.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP-LP1-REPASO_VECTORES_1_1.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP_LP1_REPASO_VECTORES_1_1.frmAcercaDe.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP_LP1_REPASO_VECTORES_1_1.frmAgregarVendedor.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP_LP1_REPASO_VECTORES_1_1.frmListadoGralVendedores.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-REPASO_VECTORES_1_1\obj\Debug\TP_LP1_REPASO_VECTORES_1_1.frmConsultaVendedor.resources

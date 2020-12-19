@@ -1,0 +1,11 @@
+D:\mec\ies\2010-2\Texto Programación 1\SP7\bin\Debug\SP7.exe
+D:\mec\ies\2010-2\Texto Programación 1\SP7\bin\Debug\SP7.pdb
+D:\mec\ies\2010-2\Texto Programación 1\SP7\bin\Debug\SP7.xml
+D:\mec\ies\2010-2\Texto Programación 1\SP7\obj\Debug\ResolveAssemblyReference.cache
+D:\mec\ies\2010-2\Texto Programación 1\SP7\obj\Debug\SP7.FrmConsultaRepuestos.resources
+D:\mec\ies\2010-2\Texto Programación 1\SP7\obj\Debug\SP7.FrmNuevoRepuesto.resources
+D:\mec\ies\2010-2\Texto Programación 1\SP7\obj\Debug\SP7.Resources.resources
+D:\mec\ies\2010-2\Texto Programación 1\SP7\obj\Debug\SP7.vbproj.GenerateResource.Cache
+D:\mec\ies\2010-2\Texto Programación 1\SP7\obj\Debug\SP7.exe
+D:\mec\ies\2010-2\Texto Programación 1\SP7\obj\Debug\SP7.xml
+D:\mec\ies\2010-2\Texto Programación 1\SP7\obj\Debug\SP7.pdb

@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\bin\Debug\ComparandoNumeros.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\bin\Debug\ComparandoNumeros.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\bin\Debug\ComparandoNumeros.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\bin\Debug\ComparandoNumeros.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\obj\Debug\ComparandoNumeros.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\obj\Debug\ComparandoNumeros.frmComparandoNumeros.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\obj\Debug\ComparandoNumeros.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\obj\Debug\ComparandoNumeros.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\obj\Debug\ComparandoNumeros.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\obj\Debug\ComparandoNumeros.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\obj\Debug\ComparandoNumeros.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\ComparandoNumeros\obj\Debug\ComparandoNumeros.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="pryEstructura">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\John\Desktop\Nueva carpeta\pryEstructura\pryEstructura.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\John\Desktop\Nueva carpeta\pryEstructura\pryEstructura.suo">
+</Property><Property Name="Date" Value="domingo, 01 de mayo de 2011">
+</Property><Property Name="Time" Value="17:46 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="pryEstructura.sln" Description="La copia C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="pryEstructura.suo" Description="La copia C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\pryEstructura.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\pryEstructura.vbproj">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\Form1.vb">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\Form1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\Module1.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\Module1.vb">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\Form1.resx">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Desktop\Nueva carpeta\pryEstructura\Backup\pryEstructura\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="pryEstructura" Source="pryEstructura\pryEstructura.vbproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\pryEstructura.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="pryEstructura" Source="pryEstructura\pryEstructura.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="pryEstructura.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="pryEstructura.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="pryEstructura" Source="pryEstructura\pryEstructura.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

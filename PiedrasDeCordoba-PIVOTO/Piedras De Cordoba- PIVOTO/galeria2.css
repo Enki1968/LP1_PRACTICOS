@@ -1,0 +1,16 @@
+#Layer1 {
+	position:absolute;
+	width:400px;
+	height:300px;
+	z-index:1;
+	left: 440px;	
+	visibility:hidden
+}
+#Layer2 {
+	position:absolute;
+	width:160px;
+	height:300px;
+	z-index:2;
+	left: 280px;
+	visibility:hidden
+}

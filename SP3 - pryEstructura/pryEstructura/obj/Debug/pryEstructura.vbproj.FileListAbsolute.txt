@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\Nueva carpeta\pryEstructura\pryEstructura\obj\Debug\pryEstructura.exe
+C:\Users\John\Desktop\Nueva carpeta\pryEstructura\pryEstructura\obj\Debug\pryEstructura.xml
+C:\Users\John\Desktop\Nueva carpeta\pryEstructura\pryEstructura\obj\Debug\pryEstructura.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\bin\Debug\pryEstructura.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\bin\Debug\pryEstructura.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\bin\Debug\pryEstructura.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\obj\Debug\pryEstructura.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\obj\Debug\pryEstructura.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\obj\Debug\pryEstructura.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\obj\Debug\pryEstructura.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\obj\Debug\pryEstructura.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\SP3 - pryEstructura\pryEstructura\obj\Debug\pryEstructura.pdb

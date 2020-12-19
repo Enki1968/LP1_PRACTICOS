@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\bin\Debug\Equivalencias_Temperatura.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\bin\Debug\Equivalencias_Temperatura.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\bin\Debug\Equivalencias_Temperatura.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\bin\Debug\Equivalencias_Temperatura.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\obj\Debug\Equivalencias_Temperatura.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\obj\Debug\Equivalencias_Temperatura.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\obj\Debug\Equivalencias_Temperatura.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\obj\Debug\Equivalencias_Temperatura.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\obj\Debug\Equivalencias_Temperatura.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\obj\Debug\Equivalencias_Temperatura.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\obj\Debug\Equivalencias_Temperatura.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Equivalencias_Temperatura\obj\Debug\Equivalencias_Temperatura.frmEquivalencias.resources

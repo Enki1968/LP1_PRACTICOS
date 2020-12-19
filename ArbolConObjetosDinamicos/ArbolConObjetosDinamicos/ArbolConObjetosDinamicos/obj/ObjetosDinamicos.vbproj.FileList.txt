@@ -1,0 +1,10 @@
+bin\Debug\ArbolConObjetosDinamicos.exe
+bin\Debug\ArbolConObjetosDinamicos.pdb
+bin\Debug\ArbolConObjetosDinamicos.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ArbolConObjetosDinamicos.FrmFomulario.resources
+obj\Debug\ArbolConObjetosDinamicos.Resources.resources
+obj\Debug\ObjetosDinamicos.vbproj.GenerateResource.Cache
+obj\Debug\ArbolConObjetosDinamicos.exe
+obj\Debug\ArbolConObjetosDinamicos.xml
+obj\Debug\ArbolConObjetosDinamicos.pdb

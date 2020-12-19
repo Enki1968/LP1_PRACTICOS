@@ -1,0 +1,39 @@
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\bin\Debug\prySP1.exe
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\bin\Debug\prySP1.pdb
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\bin\Debug\prySP1.xml
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\prySP1.frmLogin.resources
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\prySP1.frmPrincipal.resources
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\prySP1.Resources.resources
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\prySP1.exe
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\prySP1.xml
+C:\Users\John\documents\visual studio 2010\Projects\prySP1\prySP1\obj\x86\Debug\prySP1.pdb
+C:\Documents and Settings\fcordoba\Escritorio\20110501 - laboratorio programacion 1\prySP1\prySP1\obj\x86\Debug\prySP1.exe
+C:\Documents and Settings\fcordoba\Escritorio\20110501 - laboratorio programacion 1\prySP1\prySP1\obj\x86\Debug\prySP1.xml
+C:\Documents and Settings\fcordoba\Escritorio\20110501 - laboratorio programacion 1\prySP1\prySP1\obj\x86\Debug\prySP1.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\bin\Debug\prySP1.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\bin\Debug\prySP1.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\bin\Debug\prySP1.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.frmLogin.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.frmPrincipal.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\bin\Debug\prySP1.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\bin\Debug\prySP1.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\bin\Debug\prySP1.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.frmLogin.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.frmPrincipal.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Ejercicio resuelto SP1 - Archivos fuente\prySP1\prySP1\obj\x86\Debug\prySP1.pdb

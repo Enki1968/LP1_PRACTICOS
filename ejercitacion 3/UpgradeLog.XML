@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SP7">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\SP7.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\SP7.suo">
+</Property><Property Name="Date" Value="jueves, 03 de febrero de 2011">
+</Property><Property Name="Time" Value="22:04 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SP7.sln" Description="La copia C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\SP7.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="SP7.suo" Description="La copia C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\SP7.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="SP7" Source="SP7.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\SP7.vbproj">
+</Event><Event ErrorLevel="0" Project="SP7" Source="FrmConsultaRepuestos.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\FrmConsultaRepuestos.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="FrmConsultaRepuestos.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\FrmConsultaRepuestos.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="FrmNuevoRepuesto.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\FrmNuevoRepuesto.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="FrmNuevoRepuesto.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\FrmNuevoRepuesto.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="Repuestos.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\Repuestos.vb">
+</Event><Event ErrorLevel="0" Project="SP7" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="SP7" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SP7" Source="FrmConsultaRepuestos.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\FrmConsultaRepuestos.resx">
+</Event><Event ErrorLevel="0" Project="SP7" Source="FrmNuevoRepuesto.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\FrmNuevoRepuesto.resx">
+</Event><Event ErrorLevel="0" Project="SP7" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP7\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="SP7" Source="SP7.vbproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="SP7" Source="SP7.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="SP7" Source="SP7.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SP7.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="SP7.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SP7" Source="SP7.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

@@ -1,0 +1,22 @@
+#Layer1 {
+	position:absolute;
+	width:441px;
+	height:266px;
+	z-index:1;
+	left: 437px;
+	top: 3px;
+	border: thick outset #009933;
+	margin: 3px;
+	padding: 3px;
+	float: left;
+	overflow: auto;
+	visibility: hidden;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: small-caps;
+}
+input {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+}

@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\bin\Debug\IndiceDeMasaCorporal_TP2.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\bin\Debug\IndiceDeMasaCorporal_TP2.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\bin\Debug\IndiceDeMasaCorporal_TP2.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\bin\Debug\IndiceDeMasaCorporal_TP2.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\obj\Debug\IndiceDeMasaCorporal_TP2.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\obj\Debug\IndiceDeMasaCorporal_TP2.frmCalculoImc.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\obj\Debug\IndiceDeMasaCorporal_TP2.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\obj\Debug\IndiceDeMasaCorporal_TP2.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\obj\Debug\IndiceDeMasaCorporal_TP2.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\obj\Debug\IndiceDeMasaCorporal_TP2.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\obj\Debug\IndiceDeMasaCorporal_TP2.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\IndiceDeMasaCorporal_TP2\obj\Debug\IndiceDeMasaCorporal_TP2.pdb

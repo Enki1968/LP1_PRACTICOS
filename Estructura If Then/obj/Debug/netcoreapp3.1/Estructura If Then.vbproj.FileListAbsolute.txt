@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\bin\Debug\netcoreapp3.1\Estructura If Then.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\bin\Debug\netcoreapp3.1\Estructura If Then.deps.json
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\bin\Debug\netcoreapp3.1\Estructura If Then.runtimeconfig.json
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\bin\Debug\netcoreapp3.1\Estructura If Then.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\bin\Debug\netcoreapp3.1\Estructura If Then.dll
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\bin\Debug\netcoreapp3.1\Estructura If Then.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\obj\Debug\netcoreapp3.1\Estructura If Then.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\obj\Debug\netcoreapp3.1\Estructura If Then.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\obj\Debug\netcoreapp3.1\Estructura If Then.AssemblyInfo.vb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\obj\Debug\netcoreapp3.1\Estructura If Then.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\obj\Debug\netcoreapp3.1\Estructura If Then.dll
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\obj\Debug\netcoreapp3.1\Estructura If Then.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Estructura If Then\obj\Debug\netcoreapp3.1\Estructura If Then.genruntimeconfig.cache

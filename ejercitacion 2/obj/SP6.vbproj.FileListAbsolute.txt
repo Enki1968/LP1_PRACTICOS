@@ -1,0 +1,11 @@
+D:\mec\ies\2010-2\Texto Programación 1\SP6\bin\Debug\SP6.exe
+D:\mec\ies\2010-2\Texto Programación 1\SP6\bin\Debug\SP6.pdb
+D:\mec\ies\2010-2\Texto Programación 1\SP6\bin\Debug\SP6.xml
+D:\mec\ies\2010-2\Texto Programación 1\SP6\obj\Debug\ResolveAssemblyReference.cache
+D:\mec\ies\2010-2\Texto Programación 1\SP6\obj\Debug\SP6.FrmNuevaVenta.resources
+D:\mec\ies\2010-2\Texto Programación 1\SP6\obj\Debug\SP6.FrmTotales.resources
+D:\mec\ies\2010-2\Texto Programación 1\SP6\obj\Debug\SP6.Resources.resources
+D:\mec\ies\2010-2\Texto Programación 1\SP6\obj\Debug\SP6.vbproj.GenerateResource.Cache
+D:\mec\ies\2010-2\Texto Programación 1\SP6\obj\Debug\SP6.exe
+D:\mec\ies\2010-2\Texto Programación 1\SP6\obj\Debug\SP6.xml
+D:\mec\ies\2010-2\Texto Programación 1\SP6\obj\Debug\SP6.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+bin\Debug\pryEstructura.exe
+bin\Debug\pryEstructura.pdb
+bin\Debug\pryEstructura.xml
+obj\Debug\pryEstructura.vbproj.GenerateResource.Cache
+obj\Debug\pryEstructura.exe
+obj\Debug\pryEstructura.xml
+obj\Debug\pryEstructura.pdb

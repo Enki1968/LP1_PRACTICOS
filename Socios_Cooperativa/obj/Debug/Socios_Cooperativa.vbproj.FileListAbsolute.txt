@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\bin\Debug\Socios_Cooperativa.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\bin\Debug\Socios_Cooperativa.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\bin\Debug\Socios_Cooperativa.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\bin\Debug\Socios_Cooperativa.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.frmSistemaSocios.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.frmAcercaDe.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.frmAgregarNuevoSocio.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.frmListadoGeneralDeSocios.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\Socios_Cooperativa\obj\Debug\Socios_Cooperativa.frmConsultaDeDatosDeUnSocio.resources

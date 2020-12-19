@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BuclesyVector">
+</Property><Property Name="Archivo de la solución" Value="E:\VIDEOS\SP3 - pryBuclesyVector\BuclesyVector.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="E:\VIDEOS\SP3 - pryBuclesyVector\BuclesyVector.suo">
+</Property><Property Name="Date" Value="domingo, 01 de mayo de 2011">
+</Property><Property Name="Time" Value="20:37 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BuclesyVector.sln" Description="La copia E:\VIDEOS\SP3 - pryBuclesyVector\Backup\BuclesyVector.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="BuclesyVector.suo" Description="La copia E:\VIDEOS\SP3 - pryBuclesyVector\Backup\BuclesyVector.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\WindowsApplication1.vbproj">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\frmBucles.vb" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\frmBucles.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\frmBucles.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\frmBucles.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\frmBucles.resx" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\frmBucles.resx">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo E:\VIDEOS\SP3 - pryBuclesyVector\Backup\WindowsApplication1\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="La versión de destino de su proyecto es .NET Framework 2.0 ó 3.0. Si el proyecto utiliza ensamblados que requieren una versión más reciente de .NET Framework, no se podrá compilar. Puede cambiar la versión de .NET Framework haciendo clic en Propiedades en el menú del proyecto y seleccionando una nueva versión en el cuadro desplegable '.NET Framework'. (En Visual Basic, haga clic en el botón 'Opciones avanzadas del compilador...' en la pestaña Compilar).">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BuclesyVector.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="BuclesyVector.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

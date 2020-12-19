@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\bin\Debug\TP-LP1-MATRICES.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\bin\Debug\TP-LP1-MATRICES.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\bin\Debug\TP-LP1-MATRICES.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\bin\Debug\TP-LP1-MATRICES.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP-LP1-MATRICES.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP_LP1_MATRICES.frmAcercaDe.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP_LP1_MATRICES.frmSistemaProduccion.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP_LP1_MATRICES.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP-LP1-MATRICES.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP-LP1-MATRICES.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP-LP1-MATRICES.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP-LP1-MATRICES.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP-LP1-MATRICES.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP_LP1_MATRICES.frmConsultaCantidadProducidaEmpleado.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\TP-LP1-MATRICES\obj\Debug\TP_LP1_MATRICES.frmListarTotalProducido.resources

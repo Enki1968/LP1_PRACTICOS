@@ -1,0 +1,12 @@
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\SP6.exe
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\SP6.xml
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\SP6.pdb
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\bin\Debug\SP6.exe
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\bin\Debug\SP6.pdb
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\bin\Debug\SP6.xml
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\SP6.FrmNuevaVenta.resources
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\SP6.FrmTotales.resources
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\SP6.Resources.resources
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\ResGen.read.1.tlog
+C:\Users\John\Documents\My Dropbox\Libro - Laboratorio de Programacion I\SP6\obj\Debug\ResGen.write.1.tlog

@@ -1,0 +1,34 @@
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\bin\Debug\Vector4.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\bin\Debug\Vector4.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\bin\Debug\Vector4.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\bin\Debug\Vector4.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.frmNuevoCliente.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.frmSistema.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.frmListadoClientes.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.frmConsultaClientes.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.5. Vector público declarado dentro de un módulo\obj\Debug\Vector4.frmDatosProgramador.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\bin\Debug\Vector4.exe.config
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\bin\Debug\Vector4.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\bin\Debug\Vector4.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\bin\Debug\Vector4.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.frmConsultaClientes.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.frmDatosProgramador.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.frmListadoClientes.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.frmListadoClientesDeudores.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.frmNuevoCliente.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.frmSistema.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.Resources.resources
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.exe
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.xml
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.pdb
+C:\Users\Usuario\Documents\IES\1° Cuatrimestre\LABORATORIO DE PROGRAMACIÓN I\Trabajos Practicos\7.6. Listados condicionados y búsqueda de datos\obj\Debug\Vector4.frmBusquedaCliente.resources
